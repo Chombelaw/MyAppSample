@@ -1,0 +1,1 @@
+console.log("123 from app 1")
